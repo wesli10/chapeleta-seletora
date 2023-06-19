@@ -2,7 +2,7 @@
   "devDependencies": {
     "typescript": "^4.9.5"
   },
-  "name": "shelter-bot",
+  "name": "chapeleta-seletora",
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
