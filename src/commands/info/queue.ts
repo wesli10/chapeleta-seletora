@@ -2,7 +2,7 @@ import { Command } from "../../structures/Command";
 
 export default new Command({
   name: "quest",
-  description: "Gera uma imagem com a OPENIA",
+  description: "Inicia uma sequencia de perguntas para definir sua casa.",
   userPermissions: ["ADMINISTRATOR"],
   options: [
     {
