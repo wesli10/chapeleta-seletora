@@ -3,7 +3,7 @@ import { Command } from "../../structures/Command";
 
 export default new Command({
   name: "perguntas",
-  description: "Inicia uma sequencia de perguntas para definir sua casa.",
+  description: "Inicia uma sequencia de perguntas para definir sua casa.!",
 
   run: async ({ interaction }) => {
     // async function createForm() {
